@@ -6,3 +6,7 @@ The master authorized networks config block specified the CIDR block which is th
 
 The IP allocation policy block specifies the cluster and services IP range which will be use by cluster and services. This is derive from the secondary ip range of a subnetwork. 
 
+
+# Important Notes
+
+Create a "service-accounts" directory and store the terraform service account
